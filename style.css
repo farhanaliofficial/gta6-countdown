@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.countdown {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  font-size: 3rem;
+}
+
+.value {
+  width: 50px;
+  text-align: center;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 5px;
+}
